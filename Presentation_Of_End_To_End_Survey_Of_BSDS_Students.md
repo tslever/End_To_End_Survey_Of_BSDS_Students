@@ -23,20 +23,31 @@ An end-to-end survey is the process of creating and distributing questions; coll
 I would also like to define questionnaire. For our purposes, let a questionnaire be a set of questions.
 
 
-## Slide 3: Objectives
+## Slide 3: General Objectives
 
-I would like to present some objectives.
+I would like to present some general objectives.
 
 We might wish to…
 
 1.	gather comprehensive feedback from recent graduates of the BSDS program;
 
-2.	evaluate various aspects of the BSDS program from the perspectives of recent graduates; and
+2.	evaluate various aspects of the BSDS program from the perspectives of recent graduates;
 
-3.	gather insights to improve the BSDS program and better support future students.
+3.	gather insights to improve the BSDS program and better support future students;
 
 
-## Slide 4: Collaborators
+## Slide 4: Specific Objectives
+
+I would like to present some specific objectives.
+
+We might wish to...
+
+1.  create a binary classifier, multiclass classifier, or regression model that may predict whether a student found the BSDS program to be satisfying overall; and
+
+2.  understand which predictors are most likely to determine whether a student found the BSDS program to be satisfying overall.
+
+
+## Slide 5: Collaborators
 
 I would like to consider who I would collaborate with to develop the survey.
 
@@ -49,7 +60,7 @@ Collaborators may include…
 3.	stakeholders, administrative support people, and advisors listed in “Table of Collaborators”.
 
 
-## Slide 5: Questionnaire to Improve Course
+## Slide 6: Questionnaire to Improve Course
 
 Before creating questions, we may want to consider the questions and feel of existing questionnaire.
 
@@ -58,7 +69,7 @@ Here is an appealing questionnaire that I personally intend to take in August.
 The questionnaire is a web app hosted by Qualtrics, which offers online survey software.
 
 
-## Slide 6: Comparing Existing Questionnaires
+## Slide 7: Comparing Existing Questionnaires
 
 We may want to formally compare existing questionnaires using metadata.
 
@@ -69,7 +80,7 @@ We might compare surveys by response rate.
 We could use the questions and/or format of the survey with the highest response rate.
 
 
-## Slide 7: Retrospective Survey of BSDS Program
+## Slide 8: Retrospective Survey of BSDS Program
 
 Here is a screenshot of the beginning of “Retrospective Survey of BSDS Program”, which right now has 50 questions.
 
@@ -84,7 +95,7 @@ Some questions that ask for text responses might provide context, validation, st
 After developing the survey, we could conduct a pilot test by offering the questions to collaborators. 
 
 
-## Slide 8: Deployment
+## Slide 9: Deployment
 
 We could have our questionnaire be a web app hosted by Qualtrics.
 
@@ -95,7 +106,7 @@ We could offer money, swag, or other incentives.
 We could send out reminders.
 
 
-## Slide 9: Data Collection
+## Slide 10: Data Collection
 
 Qualtrics might record responses in a secure and organized way.
 
@@ -106,7 +117,7 @@ I might talk to advisors about how questionnaire data might map to a “Feature 
 So what feature matrix do I have in mind?
 
 
-## Slide 10: Feature Matrix
+## Slide 11: Feature Matrix
 
 I envision constructing a two-dimensional table of data from all questionnaires.
 
